@@ -4,7 +4,7 @@
       setTimeout(function() {
         document.getElementById('wrap-loader').remove();
         document.getElementById('container-fluid').style.visibility = "visible";
-      },3000);
+      },12000);
     }
     
 
